@@ -1,7 +1,8 @@
-
-name: CICD Pipeline
+git 
+name: CICD Pipelines
 
 on:
+
   push:
     branches: [ "master" ]
 
