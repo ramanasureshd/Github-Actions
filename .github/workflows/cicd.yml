@@ -2,9 +2,10 @@
 name: CICD Pipelines
 
 on:
-
-  push:
-    branches: [ "GithubA2" ]
+ workflow_dispatch: 
+   
+#  push:
+#    branches: [ "GithubA2" ]
 
 jobs:
   compile:
