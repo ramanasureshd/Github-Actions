@@ -3,7 +3,7 @@ name: CICD Pipeline
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "dev" ]
 
 jobs:
   compile:
