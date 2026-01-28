@@ -1,5 +1,5 @@
 git 
-name: CICD Pipelines
+name: CICD Pipeline
 
 on:
 
